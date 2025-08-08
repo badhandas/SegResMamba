@@ -5,7 +5,12 @@ This work was accepted at **MIDL 2025**.
 
 📄 **Preprint**: [arXiv:2503.07766](https://arxiv.org/pdf/2503.07766)
 
----
+
+<figure align="center">
+  <img src="./assets/arch_segresmamba.png" alt="SegResMamba Architecture" width="600"/>
+  <figcaption>Figure 1: a) Overview of SegResMamba architecture, b) Convolution Mamba mixed block, and c) Tri-oriented Mamba</figcaption>
+</figure>
+
 
 ## Contact
 
